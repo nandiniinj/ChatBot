@@ -15,4 +15,4 @@ As discussed above, there can be 2 types of bots: one that follows rules and oth
 <br>
 <br>
 
-## [Click Here](https://nandiniinj.github.io/Resources/) to view the Project.
+## [Click Here](https://nandiniinj.github.io/ChatBot/) to view the Project.
