@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(2.jpg);
+    background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    overflow: auto;
+}
+* {
+ box-sizing: border-box;
+}
+
+
+.container {
+    display: block;
+    text-align: center;
+    font-family:cursive;
+    color: rgb(235, 235, 235);
+}
+
+.navbar {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(194, 219, 212);
+    font-size: 20px;
+}
+.navbar a {
+    font-family:cursive;
+    padding: 3px 10px 3px 10px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+.navbar a:hover {
+    font-size: 22px;
+    color:white;
+    background-color: rgba(5, 112, 21, 0.753);
+    transition-duration: 0.5s;
+}
+
+.aboutcont{
+    font-family: cursive;
+    padding: 5%;
+    font-size: 150%;
+    color: rgb(250, 240, 240);
+    
+}
